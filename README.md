@@ -3,7 +3,7 @@
 Pacmen Exercise
 
 ## Project Description
-In this project, a PacMen game includes creating wall-bouncing Pacmens with a click of a button. The Pacmen are are coded in an array as well as copies of the Pacmen code and images in the DOM, which is a useful technique in large virtual codes used in React. To play the game, press "start game" after creating your desired number of pacmen and change their speeds by clicking the same button multiple times. 
+This project required us to understand how to set boundaries for manipulation of a DOM element utilizing Javascript.
 ## How to run
 To get this code to work on your machine, fork the repository to your GitHub then clone it to your local machine. 
 ## Project Improvement Opportunities
